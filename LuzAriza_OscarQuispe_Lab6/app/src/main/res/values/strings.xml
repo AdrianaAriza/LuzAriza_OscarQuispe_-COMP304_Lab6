@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Exercise2</string>
+    <string name="app_name">SERVICE</string>
+    <string-array name="sounds">
+        <item>Select a sound</item>
+        <item>Alarm</item>
+        <item>RingTone</item>
+    </string-array>
 </resources>
